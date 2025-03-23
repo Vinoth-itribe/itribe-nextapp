@@ -103,7 +103,7 @@ export default function Contact() {
 
               {/* Hidden fields for FormSubmit configuration */}
               <input type="hidden" name="_captcha" value="false" />
-              <input type="hidden" name="_next" value="https://inboundtribe.com/newsletter" />
+              <input type="hidden" name="_next" value="https://www.inboundtribe.com/newsletter" />
 
               <div className="mt-8 flex w-full flex-col justify-between gap-5 md:flex-row md:items-center">
                 <p className="text-sm text-gray-100/70">
