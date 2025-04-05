@@ -48,8 +48,8 @@ const testimonials = [
   {
     img: TestimonialImg03,
     clientImg: ClientImg10,
-    name: "Berry B.",
-    company: "TradezyFX",
+    name: "Henry K.",
+    company: "Publer.io",
     content:
       "We had a fantastic experience working with InboundTribe for our website needs. They were super supportive from start to finish, providing quick and efficient service. What really stood out...",
     categories: [1, 2, 5],
