@@ -151,6 +151,7 @@ export default function CreativeServices() {
                         height={520}
                         src={tab.img}
                         alt={tab.imgAlt}
+                        unoptimized
                       />
                     </TabPanel>
                   </Transition>

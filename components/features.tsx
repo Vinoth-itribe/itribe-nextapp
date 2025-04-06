@@ -55,6 +55,7 @@ export default function Features() {
               width={720}
               height={384}
               alt="Features"
+              unoptimized
             />
           </div>
           {/* Items */}
