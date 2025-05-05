@@ -4,12 +4,12 @@ import { useState } from "react"
 import Spotlight from "./spotlight"
 
 export default function PricingTable() {
-  const [annual, setAnnual] = useState<boolean>(true)
+  const [annual, setAnnual] = useState<boolean>(false)
 
   return (
     <div>
       {/* Pricing toggle */}
-      <label className="mb-16 flex cursor-pointer items-center justify-center gap-4 text-gray-100/70">
+     <label className="mb-16 flex cursor-pointer items-center justify-center gap-4 text-gray-100/70">
         <span className="flex-1 text-right" aria-hidden="true">
           Billed Monthly
         </span>
