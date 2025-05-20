@@ -47,7 +47,7 @@ export default function SignUp() {
           {/* Bottom link */}
           <div className="mt-6 text-center text-sm text-indigo-200/65">
             Already have an account?{" "}
-            <Link className="font-medium text-orange-500" href="/register-success">
+            <Link className="font-medium text-orange-500" href="https://dash.inboundtribe.com/login" target="_blank">
               Sign in
             </Link>
           </div>

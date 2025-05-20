@@ -37,11 +37,11 @@ export default function HeroPricing() {
             <div className="mx-auto mt-8 max-w-2xl xl:max-w-none">
               <a
                 className="group flex items-center justify-between gap-3 rounded-2xl bg-linear-to-br from-gray-900/50 via-gray-800/25 to-gray-900/50 bg-[length:100%_100%] bg-[center] px-4 py-3 backdrop-blur-xs transition-all duration-300 before:pointer-events-none before:absolute before:inset-0 before:rounded-[inherit] before:border before:border-transparent before:[background:linear-gradient(to_right,var(--color-gray-800),var(--color-gray-700),var(--color-gray-800))_border-box] before:[mask-composite:exclude_!important] before:[mask:linear-gradient(white_0_0)_padding-box,_linear-gradient(white_0_0)] hover:bg-[length:400%_100%]"
-                href="#0"
+                href="/bpo"
               >
                 <span className="text-orange-200/65">
-                  <span className="font-medium text-gray-200">Want to build your own handpicked team?</span>{" "}
-                  Book a call for more info.
+                  <span className="font-medium text-gray-200">Want to outsource with a team built just for you?</span>{" "}
+                  Learn about our Plug & Play BPO.
                 </span>
                 <span
                   className="flex shrink-0 items-center gap-3"
