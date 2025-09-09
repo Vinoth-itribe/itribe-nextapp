@@ -13,6 +13,8 @@ import CreativeServices from "@/components/creative-services";
 import WebsiteServices from "@/components/website-services";
 import AdServices from "@/components/ad-services";
 import Benefits from "@/components/benefits";
+import { Analytics } from '@vercel/analytics/next';
+
 
 export default function Home() {
   return (
@@ -27,6 +29,7 @@ export default function Home() {
       <Features />
       <Benefits />
       <Cta />
+      <Analytics />
     </>
   );
 }
